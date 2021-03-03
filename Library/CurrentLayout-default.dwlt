@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 122
+  controlID: 55
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 56
+  controlID: 60
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 57
+  controlID: 61
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Catherine Croft\Desktop\4 Semester 2\cs4644\SP4\space-bakery
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b6350000
-    m_LastClickedID: 13750
-    m_ExpandedIDs: 00000000b635000000ca9a3b
+    m_SelectedIDs: 90350000
+    m_LastClickedID: 13712
+    m_ExpandedIDs: 000000008835000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b6350000
+    m_ExpandedIDs: 0000000088350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,24 +501,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 62}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 36cbffff98e9ffff5cf0ffff3635000052350000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 9ce6ffff
+      m_LastClickedID: -6500
+      m_ExpandedIDs: 6afbffffca330000da3300001834000032340000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: TwoAliensCake
-        m_OriginalName: TwoAliensCake
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -13514
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -15.842091, y: 75.014305, z: -2.2276764}
+    m_Target: {x: -13.685438, y: 75.568794, z: -1.9811528}
     speed: 2
-    m_Value: {x: -15.842091, y: 75.014305, z: -2.2276764}
+    m_Value: {x: -13.685438, y: 75.568794, z: -1.9811528}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0026783587, y: 0.99663025, z: -0.036203403, w: 0.07398616}
+    m_Target: {x: 0.0003538132, y: 0.9995379, z: -0.028803928, w: 0.012595161}
     speed: 2
-    m_Value: {x: 0.0026782735, y: 0.99659854, z: -0.036202252, w: 0.0739838}
+    m_Value: {x: 0.00035380182, y: 0.9995057, z: -0.028803, w: 0.012594756}
   m_Size:
-    m_Target: 6.0342326
+    m_Target: 7.16682
     speed: 2
-    m_Value: 6.0342326
+    m_Value: 7.16682
   m_Ortho:
     m_Target: 1
     speed: 2
